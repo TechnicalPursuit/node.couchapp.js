@@ -153,7 +153,7 @@ exports.types = {
   "xslt":"application/xslt+xml",
   "xwd":"image/x-xwindowdump",
   "xyz":"chemical/x-pdb",
-  "zip":"application/zip",
+  "zip":"application/zip"
 };
 
 exports.lookup = function(ext, defaultType) {
